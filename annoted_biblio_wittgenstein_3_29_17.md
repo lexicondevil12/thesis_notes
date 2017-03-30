@@ -1,6 +1,6 @@
 ### Wittgenstein Annotated Bibliography
 
-####Keith - From Language to Forms of Life
+#### Keith - From Language to Forms of Life
  - p.463
 	- W was concerned with understanding causes of conceptual and philosophical errors
 	- more specifically, he investigates how these errors in thinking about philosophical problems hinder us from thinking clearly about social and ethical problems.
@@ -71,7 +71,7 @@
 	 > - Alleged "problems of knowledge"
  
 
- - "Pjilosophical problems arise from focusing on one kind of practice or activity to the exclusion of others."
+ - "Philosophical problems arise from focusing on one kind of practice or activity to the exclusion of others."
 
 	
 
