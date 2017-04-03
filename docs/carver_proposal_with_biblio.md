@@ -16,20 +16,22 @@ To accomplish this re-thinking of TPC and PM, I will examine theories and practi
 ##### Bibliography
 
 
-> Cicmil, Svetlana et al. “Rethinking Project Management: Researching the Actuality of Projects.” International Journal of Project Management 24.8 (2006): 675–686. Web.
+> Cicmil, Svetlana et al. “Rethinking Project Management: Researching the Actuality of Projects.” _International Journal of Project Management_ 24.8 (2006): 675–686. Web.
 > <br></br>
-> Cockburn, Alistair. “Agile Software Development: The Cooperative Game.” Building 113 (2006): 2000–2001. Web.
+> Cockburn, Alistair. _Agile Software Development: The Cooperative Game_. Upper Saddle River, NJ: Addison-Wesley, 2007. Print.
 > <br></br>
-> Keith, William. “Wittgenstein and Communication: From Language to Forms of Life.” Philosophical Profiles in the Theory of Communication. Ed. Jason Hannan. New York: Peter Lang Inc, 2012. 463–497. Print.
+> Keith, William. “Wittgenstein and Communication: From Language to Forms of Life.” _Philosophical Profiles in the Theory of Communication_. Ed. Jason Hannan. New York: Peter Lang Inc, 2012. 463–497. Web.
 > <br></br>
-> McKay, Judy, Peter Marshall, and Nick Grainger. “Rethinking Communication in IT Project Management.” Proceedings of the Annual Hawaii International Conference on System Sciences (2014): 4315–4324. Web.
+> McCann, L. (2015). _Experimental Modes of Civic Engagement in Civic Tech: Meeting people where they are_. Chicago. 2015. Ebook.
 > <br></br>
-> Pleasants, N. “Winch, Wittgenstein and the Idea of a Critical Social Theory.” History of the Human Sciences 13.1 (2000): 78–91. Web.
+> McKay, Judy, Peter Marshall, and Nick Grainger. “Rethinking Communication in IT Project Management.” _Proceedings of the Annual Hawaii International Conference on System Sciences_ (2014): 4315–4324. Web.
 > <br></br>
-> Reddy, Michael J. “The Conduit Metaphor.” Metaphor and Thought. N.p., 1993. 164–201. Web.
+> Pleasants, Nigel. _Wittgenstein and the Idea of a Critical Social Theory: A Critique of Giddens, Habermas and Bhaskar_. London: Routledge, 1999. Print.
 > <br></br>
-> Schatzki, Theodore R. Social Practices: A Wittgensteinian Approach to Human Activity and the Social. Vol. 52. N.p., 1996. Web.
+> Reddy, Michael J. “The Conduit Metaphor.” _Metaphor and Thought_. Cambridge University Press, 1993. 164–201. Web.
 > <br></br>
-> Vann, James L. “Resistance to Change and the Language of Public Organizations: A Look at Clashing Grammars in Large-Scale Information Technology Projects.” Public Organization Review 4.1 (2004): 47–73. Web.
+> Schatzki, Theodore R. _Social Practices: A Wittgensteinian Approach to Human Activity and the Social_. Cambridge University Press, 1996. Print.
 > <br></br>
-> Wittgenstein, L. Philosophical Investigations. 1999/1967. N.p., 1953. Print.
+> Vann, James L. “Resistance to Change and the Language of Public Organizations: A Look at Clashing Grammars in Large-Scale Information Technology Projects.” _Public Organization Review_. 4.1 (2004): 47–73. Web.
+> <br></br>
+> Wittgenstein, L. Philosophical Investigations. 1999/1967. Blackwell Publishing Ltd., 1953. Print.
