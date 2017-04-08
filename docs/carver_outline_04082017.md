@@ -25,6 +25,7 @@
         - 'Iterative' approaches are dynamic/fluid
     2. What assumptions about language and communication are evident in 'iterative' practices and methodologies?
     3. What artifacts are produced and what do can they tell us about how 'iterative' methods view communication?
+        * Similar to asking what the implications for communication are for a gant chart, we can ask what sorts of ideas about communication underlie something like a scrum board.
     4. What rhetorical practices are evident in 'iterative' approaches?
         - How do rhetorical practices in 'iterative' PM situations relate to understandings of language and communication?
 4. Other things I want to bring in, address, or not sure where they belong
