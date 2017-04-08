@@ -4,4 +4,5 @@ theme: readthedocs
 pages:
     - ['index.md', 'Index']
     - ['carver_proposal_draft_v4.md', 'Proposal Draft']
-    - ['wittgenstein_PI_readers_guide.md', Notes for Philosophical Investgations readers guide]
+    - ['wittgenstein_PI_readers_guide.md', 'Notes for Philosophical Investgations readers guide']
+    - ['carver_outline_04082017.md', 'Initial Outline 04.08.2017']
