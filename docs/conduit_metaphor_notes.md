@@ -28,7 +28,7 @@
     - The "indigdenous materials," represent a person's repertoire
         -Remember: RM = _repertoire member_ = "each person has a "_repertoire_" of mental and emotion material.
         - **So one of the points of the toolmaker's paradigm is to externalize the "_repertoire_"? Maybe?**
-        - is this also comparable to _habitus_ (Bourdieu? Per Schatzki, Bourdieu thought that _habitus_ alone determines action. See[Schatzki Critique of Bourdieu and Gidden](schatzki_bourdieu_giddens.md#bourdieureddy1)
+        - is this also comparable to _habitus_ (Bourdieu? Per Schatzki, Bourdieu thought that _habitus_ alone determines action. See Schatzki Critique of Bourdieu and Gidden
 
 - p.296
     - toolmakers paradigm and radical subjectivity are actual common-sense and the dominance of the conduit metaphor indicates that common sense is 'confused'

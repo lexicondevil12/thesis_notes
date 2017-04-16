@@ -30,7 +30,7 @@ As Schatzki writes:
 * **Resources**
     * "Through the use of or reliance on resources, actors bring others to perform actions through which specific outcomes are secured."
 
-<a name="bourdieureddy1">**292 - Bourdieu v. Giddens**</a>
+**292 - Bourdieu v. Giddens**
 * For Bourdieu, habitus alone is what determines action.
 * Giddens maintains that actions can also be determined by reasons (the unspoken grounds for actions) and desires (deep, perhaps subconscous motivations).
 
