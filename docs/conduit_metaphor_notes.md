@@ -1,7 +1,7 @@
 #### Conduit Metaphor Notes
 ##### Michael Reddy
 
-- p.487
+- p.287
 > If there are dead metaphors in 1-3, then they all seem to involve the figurative assertion that language _transfers_ human thoughts and feelings.
 
 - p.288
@@ -23,6 +23,12 @@
 1. thoughts and ideas and feelings are ejected by speaking or writing into an "external idea space."
 2. thoughts and feelings are reified in the external space, so they exist independently of any need for humans to think or feel them
 3. reified thoughts and feelings may or may not find their way back into the mind of a human
+
+- p.292 - **Toolmaker's paradigm (Radical Subjectivity)**
+    - The "indigdenous materials," represent a person's repertoire
+        -Remember: RM = _repertoire member_ = "each person has a "_repertoire_" of mental and emotion material.
+        - **So one of the points of the toolmaker's paradigm is to externalize the "_repertoire_"? Maybe?**
+        - is this also comparable to _habitus_ (Bourdieu? Per Schatzki, Bourdieu thought that _habitus_ alone determines action. See[Schatzki Critique of Bourdieu and Gidden](schatzki_bourdieu_giddens.md#bourdieureddy1)
 
 - p.296
     - toolmakers paradigm and radical subjectivity are actual common-sense and the dominance of the conduit metaphor indicates that common sense is 'confused'
