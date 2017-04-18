@@ -52,8 +52,12 @@ As Schatzki writes:
 **294**
 > "Giddens and Bourdieu contest the adequacy of representationism as a complete or even partial account of human activity and seek to do justice to the practice nature of action by rooting human activity in a norepresentational stratum, which also undergirds the resultingly limited role that representations play in determining action."
 
+- representational approaches are being replaced with conceptions that acknowledge "creative action." So non-rep accounts believe that representations play at most a limited role in determining actions. 
+
 **295**
 > "Powerful considerations against the possibility of representing the content of practical understanding, the ability to go on intelligibly to others, are found in the works of Wittgenstein. Most discussions of the bearing of his texts on practical understanding fcus on his remarks about rule following, where a rule is an explicit formulation. * **The considerations that argue against representability of practical understandings, on the other hand, are found in his disucssion of games and family resemblances** * (e.g., Wittgenstein 1958, sec 65-79)."
+
+> Collapsing, or even just decentering, the determination of action in practical understanding represents a great advance over representational models of activity. Representationism is burdened by lingering, if not overtly, Neo-Cartesian conceptions of representation; by the baneful assumption that mental conditions are discrete states in any sense stronger than being described in specific words; and/or by indadequately explicated notion of causal relations between representations and actions. (Schatzki, 1997)
 
 **PI Sec. 49**
 > "Name is not yet a move in a language game...with the mere naming of a thing, nothing has yet been done. Nor *has* it a name except in a game. This is what Frege meant too when he said that a word has a meaning only in the context of a sentence." {Emphasis in original}
