@@ -1,6 +1,7 @@
 site_name: Thesis Notes and drafts
 site_description: Notes from readings and other thesis writing
 theme: readthedocs
+dev_addr: '0.0.0.0:8000'
 pages:
     - ['index.md', 'Index']
     - ['carver_proposal_draft_v4.md', 'Proposal Draft']
